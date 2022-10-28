@@ -1,0 +1,5 @@
+*
+!.gitignore
+!fetch.ipynb
+!clean.ipynb
+!analyze.ipynb
